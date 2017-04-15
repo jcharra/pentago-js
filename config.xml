@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="de.charra.pentago" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>helloworld</name>
+    <name>Pentago-JS</name>
     <description>
         A simple, yet intricate little board game
     </description>
